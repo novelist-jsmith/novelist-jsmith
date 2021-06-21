@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new programming languages
 - 🌱 I’m currently learning Power Apps
 - 💞️ I’m looking to collaborate on projects that involve using Power Apps, Python and RPA tools
-- 📫 How to reach me ...
+
 
 <!---
 novelist-jsmith/novelist-jsmith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
